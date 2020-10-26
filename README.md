@@ -5,6 +5,11 @@ Header-only C++ library for basic plotting and drawing. The resulting plot is sh
 
 This library is designed to be as minimal and simple as possible. Just include it in your project or add it to its include path.
 
+# Examples
+![Mandelbrot set](https://github.com/CarlosManuelRodr/BMPPlotter/blob/main/images/mandelbrot.bmp?raw=true)
+
+![Sine plot](https://github.com/CarlosManuelRodr/BMPPlotter/blob/main/images/plot.bmp?raw=true)
+
 # Usage
 
 ## Basic plotting
